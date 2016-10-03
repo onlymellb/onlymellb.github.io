@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Just For Fun</title>
+  <subtitle>越努力,越幸运</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://onlymellb.github.io/"/>
+  <updated>2016-10-03T06:24:54.000Z</updated>
+  <id>http://onlymellb.github.io/</id>
+  
+  <author>
+    <name>onlymellb</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>second</title>
+    <link href="http://onlymellb.github.io/second/"/>
+    <id>http://onlymellb.github.io/second/</id>
+    <published>2016-10-02T17:30:49.000Z</published>
+    <updated>2016-10-03T06:24:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="人生感悟"><a href="#人生感悟" class="headerlink" title="人生感悟"></a>人生感悟</h2><p>啊！大海啊，全是水。。。蜘蛛啊！全是腿</p>
+<figure class="highlight go"><figcaption><span>hello_world</span><a href="http://www.baidu.com" target="_blank" rel="external">onlymellb</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">package</span> main</div><div class="line"></div><div class="line"><span class="keyword">import</span> (</div><div class="line">	<span class="string">"fmt"</span></div><div class="line">)</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</div><div class="line">	fmt.Printf(<span class="string">"hello world.\n"</span>)</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;人生感悟&quot;&gt;&lt;a href=&quot;#人生感悟&quot; class=&quot;headerlink&quot; title=&quot;人生感悟&quot;&gt;&lt;/a&gt;人生感悟&lt;/h2&gt;&lt;p&gt;啊！大海啊，全是水。。。蜘蛛啊！全是腿&lt;/p&gt;
+&lt;figure class=&quot;highlight go&quot;&gt;&lt;figcapti
+    
+    </summary>
+    
+      <category term="emotion" scheme="http://onlymellb.github.io/categories/emotion/"/>
+    
+    
+      <category term="人生感悟" scheme="http://onlymellb.github.io/tags/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>first</title>
+    <link href="http://onlymellb.github.io/first/"/>
+    <id>http://onlymellb.github.io/first/</id>
+    <published>2016-10-02T16:49:58.000Z</published>
+    <updated>2016-10-03T06:27:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎大家</p>
+<h2 id="fist-commit"><a href="#fist-commit" class="headerlink" title="fist commit"></a>fist commit</h2><figure class="highlight c"><figcaption><span>write by c</span><a href="/downloads/code/hello_world.c">view raw</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line"></div><div class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">int</span> argc, <span class="keyword">char</span> *argv[])</span></span></div><div class="line">{</div><div class="line">	<span class="built_in">printf</span>(<span class="string">"hello world!"</span>);</div><div class="line">	<span class="keyword">return</span> <span class="number">0</span>;</div><div class="line">}</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;欢迎大家&lt;/p&gt;
+&lt;h2 id=&quot;fist-commit&quot;&gt;&lt;a href=&quot;#fist-commit&quot; class=&quot;headerlink&quot; title=&quot;fist commit&quot;&gt;&lt;/a&gt;fist commit&lt;/h2&gt;&lt;figure class=&quot;highlight 
+    
+    </summary>
+    
+      <category term="technology" scheme="http://onlymellb.github.io/categories/technology/"/>
+    
+    
+      <category term="技术" scheme="http://onlymellb.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://onlymellb.github.io/hello-world/"/>
+    <id>http://onlymellb.github.io/hello-world/</id>
+    <published>2016-10-02T14:14:22.000Z</published>
+    <updated>2016-10-02T14:14:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
