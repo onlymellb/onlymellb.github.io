@@ -4,9 +4,9 @@
   <subtitle>越努力,越幸运</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://onlymellb.github.io/"/>
+  <link href="http://goroutine.cc/"/>
   <updated>2016-10-03T06:24:54.000Z</updated>
-  <id>http://onlymellb.github.io/</id>
+  <id>http://goroutine.cc/</id>
   
   <author>
     <name>onlymellb</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>second</title>
-    <link href="http://onlymellb.github.io/second/"/>
-    <id>http://onlymellb.github.io/second/</id>
+    <link href="http://goroutine.cc/second/"/>
+    <id>http://goroutine.cc/second/</id>
     <published>2016-10-02T17:30:49.000Z</published>
     <updated>2016-10-03T06:24:54.000Z</updated>
     
@@ -33,17 +33,17 @@
     
     </summary>
     
-      <category term="emotion" scheme="http://onlymellb.github.io/categories/emotion/"/>
+      <category term="emotion" scheme="http://goroutine.cc/categories/emotion/"/>
     
     
-      <category term="人生感悟" scheme="http://onlymellb.github.io/tags/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F/"/>
+      <category term="人生感悟" scheme="http://goroutine.cc/tags/%E4%BA%BA%E7%94%9F%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
   <entry>
     <title>first</title>
-    <link href="http://onlymellb.github.io/first/"/>
-    <id>http://onlymellb.github.io/first/</id>
+    <link href="http://goroutine.cc/first/"/>
+    <id>http://goroutine.cc/first/</id>
     <published>2016-10-02T16:49:58.000Z</published>
     <updated>2016-10-03T06:27:38.000Z</updated>
     
@@ -58,17 +58,17 @@
     
     </summary>
     
-      <category term="technology" scheme="http://onlymellb.github.io/categories/technology/"/>
+      <category term="technology" scheme="http://goroutine.cc/categories/technology/"/>
     
     
-      <category term="技术" scheme="http://onlymellb.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://goroutine.cc/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://onlymellb.github.io/hello-world/"/>
-    <id>http://onlymellb.github.io/hello-world/</id>
+    <link href="http://goroutine.cc/hello-world/"/>
+    <id>http://goroutine.cc/hello-world/</id>
     <published>2016-10-02T14:14:22.000Z</published>
     <updated>2016-10-02T14:14:22.000Z</updated>
     
